@@ -1,5 +1,5 @@
-<p align="center"><a href="https://github.com/mukul500/AnimeXStream"><img src="/meta/android/animexstream.png" width="150"></a></p> 
-<h2 align="center"><b>Anime X Stream</b></h2>
+<p align="center"><a href="https://github.com/ScriptHelper/AversHenni"><img src="/meta/android/animexstream.png" width="150"></a></p> 
+<h2 align="center"><b>AversHenni</b></h2>
 <h4 align="center">An Android app to watch anime on your phone without ads.</h4>
 <p align="center"><a href="https://github.com/mukul500/AnimeXStream/releases"><img src="/meta/android/download.png"></a></p> 
 <p align="center">
