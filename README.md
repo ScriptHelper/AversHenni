@@ -12,6 +12,7 @@
 <a> <img src="https://img.shields.io/github/watchers/ScriptHelper/AversHenni?style=for-the-badge" alt="Watchers"> </a>
 <a> <img src="https://img.shields.io/github/commit-activity/w/ScriptHelper/AversHenni?style=for-the-badge" alt="Commit Activity"> </a>
 <a> <img src="https://img.shields.io/github/issues/ScriptHelper/AversHenni?style=for-the-badge" alt="Issues"> </a>
+<a href="https://www.virustotal.com/gui/file/bce041a1cb32a35b764af097f8f7e8e3654bb67c37174d00cf2030b3c0794be5/summary" >  <img src="https://img.shields.io/badge/Virus%20Founded-0-yellowgreen"> </a>
 </p>
 
 <hr>
@@ -34,12 +35,10 @@
 [<img src="Images/9Anime-back.jpg" width=350>](Images/9Anime-back.jpg)
 
 
-
-
-
 ## Description
 
 AversHenni parses website data and removes the ads for a seamless experience. 
+
 
 ### Features
 
@@ -57,5 +56,3 @@ AversHenni parses website data and removes the ads for a seamless experience. 
 
 * New anime, manga, and hentai websites will be added.
 * And many more
-
-
