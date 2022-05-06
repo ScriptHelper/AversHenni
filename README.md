@@ -1,12 +1,12 @@
 <p align="center"><a href="https://github.com/ScriptHelper/AversHenni"><img src="Images/AversHenni.png" width="350"></a></p> 
 <h2 align="center"><b>AversHenni</b></h2>
 <h4 align="center">An Android app to watch anime, manga, and hentai on your phone without ads.</h4>
-<p align="center"><a href="https://github.com/ScriptHelper/AversHenni"><img src="/meta/android/download.png"></a></p> 
+<p align="center"><a href="https://github.com/ScriptHelper/AversHenni/releases"><img src="Images/download-button.png" width="230"></a></p> 
 <p align="center">
-<a href="https://github.com/ScriptHelper/AversHenni" alt="GitHub release"><img src="https://img.shields.io/badge/version-0.4.2-blue.svg?style=for-the-badge" ></a>
-<a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge"></a>
-<a href="https://github.com/ScriptHelper/AversHenni" alt="Build Status"><img src="https://img.shields.io/badge/build-passing-yellowgreen.svg?style=for-the-badge"></a>
-<a href="https://github.com/ScriptHelper/AversHenni" alt="Total Downloads"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/mukul500/AnimeXStream/total?style=for-the-badge"></a>
+<a href="https://github.com/ScriptHelper/AversHenni" alt="GitHub release"><img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" ></a>
+<a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/github/license/ScriptHelper/AversHenni?style=for-the-badge"></a>
+<a href="https://github.com/ScriptHelper/AversHenni" alt="Build Status"><img src="https://img.shields.io/badge/build-passing-yellowgreen?style=for-the-badge"></a>
+<a href="https://github.com/ScriptHelper/AversHenni" alt="Total Downloads"><img alt="GitHub all releases" src="https://img.shields.io/badge/Downloads-100%2B-brightgreen?style=for-the-badge"></a>
 </p>
 
 <hr>
@@ -15,7 +15,7 @@
 
 
 <h3 align="center">**Star :star:  this repo to show your support and it really does matter!** :clap:</h4>
-<p align="center"><a href="#"><img src="Images/help.png"></a></p> 
+<p align="center"><a href="#"><img src="Images/donate.png" width="230"></a></p> 
 
 ## Screenshots
 
