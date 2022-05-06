@@ -23,11 +23,6 @@
 <p align="center"><a href="#"><img src="Images/donate.png" width="230"></a></p> 
 
 
-# AversHenni
-
-Test
-
-
 ## Screenshots
 
 [<img src="Images/Splash-Screen.jpg" width=350>](Images/Splash-Screen.jpg)
