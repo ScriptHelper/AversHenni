@@ -3,7 +3,7 @@
 <h4 align="center">An Android app to watch anime, manga, and hentai on your phone without ads.</h4>
 <p align="center"><a href="https://github.com/ScriptHelper/AversHenni/blob/main/App/AversHenni.apk?raw=true"><img src="Images/download-button.png" width="230"></a></p> 
 <p align="center">
-<a href="https://github.com/ScriptHelper/AversHenni" alt="GitHub release"><img src="https://img.shields.io/badge/Version-1.1-blue?style=for-the-badge"> </a>
+<a href="https://github.com/ScriptHelper/AversHenni" alt="GitHub release"><img src="https://img.shields.io/badge/Version-1.2-blue?style=for-the-badge"> </a>
 <a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/github/license/ScriptHelper/AversHenni?style=for-the-badge"></a>
 <a href="https://github.com/ScriptHelper/AversHenni" alt="Build Status"><img src="https://img.shields.io/badge/build-passing-yellowgreen?style=for-the-badge"> </a>
 <a href="https://github.com/ScriptHelper/AversHenni" alt="Total Downloads"><img alt="GitHub all releases" src="https://img.shields.io/badge/Downloads-100%2B-brightgreen?style=for-the-badge"> </a>
