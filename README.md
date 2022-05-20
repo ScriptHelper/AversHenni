@@ -6,7 +6,7 @@
 <a href="https://github.com/ScriptHelper/AversHenni" alt="GitHub release"><img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge"> </a>
 <a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/github/license/ScriptHelper/AversHenni?style=for-the-badge"></a>
 <a href="https://github.com/ScriptHelper/AversHenni" alt="Build Status"><img src="https://img.shields.io/badge/build-passing-yellowgreen?style=for-the-badge"> </a>
-<a href="https://github.com/ScriptHelper/AversHenni" alt="Total Downloads"><img alt="GitHub all releases" src="https://img.shields.io/badge/Downloads-150%2B-brightgreen?style=for-the-badge"> </a>
+<a href="https://github.com/ScriptHelper/AversHenni" alt="Total Downloads"><img alt="GitHub all releases" src="https://img.shields.io/badge/Downloads-500%2B-brightgreen?style=for-the-badge"> </a>
 <a> <img src="https://img.shields.io/github/repo-size/ScriptHelper/AversHenni?style=for-the-badge" alt="Repository Size"> </a>
 <a> <img src="https://img.shields.io/github/stars/ScriptHelper/AversHenni?style=for-the-badge" alt="Stars"> </a>
 <a> <img src="https://img.shields.io/github/watchers/ScriptHelper/AversHenni?style=for-the-badge" alt="Watchers"> </a>
