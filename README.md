@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/ScriptHelper/AversHenni"><img src="Images/AversHenni.png" width="350"></a></p> 
 <h2 align="center"><b>AversHenni</b></h2>
 <h4 align="center">An Android app to watch anime, manga, and hentai on your phone without ads.</h4>
-<p align="center"><a href="https://github.com/ScriptHelper/AversHenni/blob/main/All-AversHenni-App-Versions/AversHenni%20v2.0.apk"><img src="Images/download-button.png" width="230"></a></p> 
+<p align="center"><a href="https://github.com/ScriptHelper/AversHenni/blob/main/All-AversHenni-App-Versions/AversHenni%20v2.0.apk?raw=true"><img src="Images/download-button.png" width="230"></a></p> 
 <p align="center">
 <a href="https://github.com/ScriptHelper/AversHenni" alt="GitHub release"><img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge"> </a>
 <a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/github/license/ScriptHelper/AversHenni?style=for-the-badge"></a>
@@ -12,7 +12,7 @@
 <a> <img src="https://img.shields.io/github/watchers/ScriptHelper/AversHenni?style=for-the-badge" alt="Watchers"> </a>
 <a> <img src="https://img.shields.io/github/commit-activity/w/ScriptHelper/AversHenni?style=for-the-badge" alt="Commit Activity"> </a>
 <a> <img src="https://img.shields.io/github/issues/ScriptHelper/AversHenni?style=for-the-badge" alt="Issues"> </a>
-<a href="https://www.virustotal.com/gui/file/25991a0934ec788c45ef7f2f7a2ba91e24fcca2893ab6b6d219195929ddf9020/summary" >  <img src="https://img.shields.io/badge/Virus%20Founded-0-yellowgreen"> </a>
+<a href="#" >  <img src="https://img.shields.io/badge/Virus%20Founded-0-yellowgreen"> </a>
 </p>
 
 <hr>
