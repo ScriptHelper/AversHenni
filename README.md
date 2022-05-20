@@ -1,12 +1,12 @@
 <p align="center"><a href="https://github.com/ScriptHelper/AversHenni"><img src="Images/AversHenni.png" width="350"></a></p> 
 <h2 align="center"><b>AversHenni</b></h2>
 <h4 align="center">An Android app to watch anime, manga, and hentai on your phone without ads.</h4>
-<p align="center"><a href="https://github.com/ScriptHelper/AversHenni/blob/main/App/AversHenni.apk?raw=true"><img src="Images/download-button.png" width="230"></a></p> 
+<p align="center"><a href="https://github.com/ScriptHelper/AversHenni/blob/main/All-AversHenni-App-Versions/AversHenni%20v2.0.apk"><img src="Images/download-button.png" width="230"></a></p> 
 <p align="center">
-<a href="https://github.com/ScriptHelper/AversHenni" alt="GitHub release"><img src="https://img.shields.io/badge/Version-1.2-blue?style=for-the-badge"> </a>
+<a href="https://github.com/ScriptHelper/AversHenni" alt="GitHub release"><img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge"> </a>
 <a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/github/license/ScriptHelper/AversHenni?style=for-the-badge"></a>
 <a href="https://github.com/ScriptHelper/AversHenni" alt="Build Status"><img src="https://img.shields.io/badge/build-passing-yellowgreen?style=for-the-badge"> </a>
-<a href="https://github.com/ScriptHelper/AversHenni" alt="Total Downloads"><img alt="GitHub all releases" src="https://img.shields.io/badge/Downloads-100%2B-brightgreen?style=for-the-badge"> </a>
+<a href="https://github.com/ScriptHelper/AversHenni" alt="Total Downloads"><img alt="GitHub all releases" src="https://img.shields.io/badge/Downloads-150%2B-brightgreen?style=for-the-badge"> </a>
 <a> <img src="https://img.shields.io/github/repo-size/ScriptHelper/AversHenni?style=for-the-badge" alt="Repository Size"> </a>
 <a> <img src="https://img.shields.io/github/stars/ScriptHelper/AversHenni?style=for-the-badge" alt="Stars"> </a>
 <a> <img src="https://img.shields.io/github/watchers/ScriptHelper/AversHenni?style=for-the-badge" alt="Watchers"> </a>
@@ -25,13 +25,17 @@
 
 
 
-## Screenshots
+### Screenshots
 
 [<img src="Images/Splash-Screen.jpg" width=350>](Images/Splash-Screen.jpg)
 
 [<img src="Images/Login.jpg" width=350>](Images/Login.jpg)
 
 [<img src="Images/Main.jpg" width=350>](Images/Main.jpg)
+
+[<img src="Images/account.jpg" width=350>](Images/account.jpg)
+
+[<img src="Images/LiveAppUpdate.jpg" width=350>](Images/LiveAppUpdate.jpg)
 
 [<img src="Images/Main-back.jpg" width=350>](Images/Main-back.jpg)
 
@@ -41,10 +45,12 @@
 
 [<img src="Images/Asura-Scans.jpg" width=350>](Images/Asura-Scans.jpg)
 
+[<img src="Images/AllMoviesForYou.jpg" width=350>](Images/AllMoviesForYou.jpg)
+
 [<img src="Images/9Anime-back.jpg" width=350>](Images/9Anime-back.jpg)
 
 
-## Description
+### Description
 
 AversHenni parses website data and removes the ads for a seamless experience. 
 
